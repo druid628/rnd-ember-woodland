@@ -1,0 +1,10 @@
+html {
+    background-color: #ebe9df;
+    color: #726157;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+body {
+    min-height: 100%;
+}

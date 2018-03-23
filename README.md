@@ -1,7 +1,8 @@
-# woodland
+# Woodland Wanderer Whatchamacallits
 
 This README outlines the details of collaborating on this Ember application.
 A short introduction of this app could easily go here.
+This is based off the CodeSchool Woodland Wanderer Whatchamacallits tutorial.
 
 ## Prerequisites
 
@@ -23,10 +24,6 @@ You will need the following things properly installed on your computer.
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
 ### Running Tests
 
 * `ember test`
@@ -39,7 +36,7 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+TBD
 
 ## Further Reading / Useful Links
 

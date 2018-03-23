@@ -6,6 +6,6 @@ export default Ember.Route.extend({
         return store.getOrders();
     },
 
-    store: Ember.inject.service('store') // service name matches the local prop thus can be ommitted
+    store: Ember.inject.service() // service name matches the local prop thus can be ommitted
     
 });
